@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ugadai</string>
+    <string name="behind">Недалет !</string>
+    <string name="ahead">Перелет !</string>
+    <string name="hit">В точку !</string>
+    <string name="input_value">Ввести заначение:</string>
+    <string name="play_more">Сыграть еще</string>
+    <string name="try_to_guess">Попробуйте угадать число от (1 &#8211; 100)</string>
+    <string name="error">Невреный ввод</string>
+</resources>
